@@ -1,4 +1,5 @@
 export default function Navbar({ links }) {
+
   return (
     <nav className="navbar navbar-expand-lg bg-secondary">
       <div className="container-fluid">

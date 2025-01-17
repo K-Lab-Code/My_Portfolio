@@ -11,6 +11,7 @@
   --light: rgba(238, 238, 247, 1);
 }
 
+
 body {
   margin: 0;
   padding: 0;
@@ -52,6 +53,16 @@ header h1 {
   font-size: 4vw;
   line-height: 1;
 }
+footer nav {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.round{
+  border-radius: 50%;
+}
+
 
 nav {
   display: flex;
@@ -73,6 +84,11 @@ nav a {
 }
 
 nav a:hover {
+  background-size: 100% 100%;
+  color: var(--primary);
+}
+
+#active {
   background-size: 100% 100%;
   color: var(--primary);
 }
@@ -221,26 +237,29 @@ main {
 
 /* portfolio project images */
 /* TODO: Add portfolio project images here using background images*/
-.run-buddy {
-  background-image: url("/home/assets/images/one.jpg");
+.My-Weather-App {
+  background-image: url("./images//Weather.png");
 }
 
-.led-wall {
-  background-image: url("assets/images/two.jpg");
+.Vehicle-Creator-and-Picker {
+  background-image: url("./images//Vehicle.jpg");
 }
 
-.react-calc {
-  background-image: url("./assets/images/three.jpg");
+.Employee-Manager-CMS {
+  background-image: url("./images/CMS.png");
 }
 
-.pastel-puzzles {
-  background-image: url("./assets/images/four.jpg");
+.My-Readme-Template-Generator {
+  background-image: url("./images/ReadMe-Generator.jpg");
 }
 
-.surf-report {
-  background-image: url("./assets/images/five.jpg");
+.Petcare-Tracker {
+  background-image: url("./images/Pet-Tracker.jpg");
 }
 
+#Me {
+  border-radius: 50%;
+}
 /* media queries */
 
 /* media queries for a max-width of 980px */
@@ -289,4 +308,5 @@ main {
     max-height: 150px;
     flex-basis: 100%;;
 }
+
 }
