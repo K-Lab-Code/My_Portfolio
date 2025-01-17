@@ -1,7 +1,7 @@
 // This is a static page mocking an "About Us" section for our fake user data
 export default function AboutMePage() {
   return (
-    <section class="page-section" id="aboutMe">
+    <section className="page-section" id="aboutMe">
       <h2>About Me</h2>
       <div>
         <img src='./src/images/Me.jpg' id='Me' width='150' height='150'/>

@@ -1,7 +1,7 @@
 // This is a static page mocking an "About Us" section for our fake user data
 export default function ResumePage() {
   return (
-    <section class="page-section" id="resume">
+    <section className="page-section" id="resume">
       <h2>Resume</h2>
       <div>
         <h3>Download <a href='./src/images/Resume.pdf' download="Resume">Resume</a></h3>
