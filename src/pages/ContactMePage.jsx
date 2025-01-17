@@ -19,12 +19,16 @@ export default function ContactPage() {
         }
         event.target.reportValidity();
     }
+    function handleSubmit(event) { 
+        //event.preventDefault(); 
+        console.log("submit"); 
+    }
 
     return (
         <section className="page-section" id="contactMe">
             <h2>Contact Me</h2>
             <div className="contact-address">
-                <form onSubmit={()=>{console.log("submit")}} method="post">
+                <form onSubmit={handleSubmit} method="post">
                     <label for="name">Name:</label>
                     <br />
                     <input type="text" id="name" name="name" required onChange={save} onMouseOut={validateField}/>

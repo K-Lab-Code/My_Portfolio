@@ -242,27 +242,27 @@ main {
 /* portfolio project images */
 /* TODO: Add portfolio project images here using background images*/
 .My-Weather-App {
-  background-image: url("./images//Weather.png");
+  background-image: url("../images/Weather.png");
 }
 
 .Vehicle-Creator-and-Picker {
-  background-image: url("./images//Vehicle.jpg");
+  background-image: url("../images/Vehicle.jpg");
 }
 
 .Employee-Manager-CMS {
-  background-image: url("./images/CMS.png");
+  background-image: url("../images/CMS.png");
 }
 
 .My-Readme-Template-Generator {
-  background-image: url("./images/ReadMe-Generator.jpg");
+  background-image: url("../images/ReadMe-Generator.jpg");
 }
 
 .Petcare-Tracker {
-  background-image: url("./images/Pet-Tracker.jpg");
+  background-image: url("../images/Pet-Tracker.jpg");
 }
 
 .Prework-Study-Guide {
-  background-image: url("./images/prework.png");
+  background-image: url("../images/prework.png");
 }
 
 #Me {

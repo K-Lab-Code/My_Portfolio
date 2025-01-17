@@ -4,7 +4,7 @@ export default function AboutMePage() {
     <section className="page-section" id="aboutMe">
       <h2>About Me</h2>
       <div>
-        <img src='./src/images/Me.jpg' id='Me' width='150' height='150'/>
+        <img src='./images/Me.jpg' id='Me' width='150' height='150'/>
         <br />
         <br />
         <p>My name is Kalab Smith, and I am enthusiastic about embarking on a career in the computer programming industry. Although I am relatively new to the professional scene, I am a quick learner and bring with me years of programming experience as a hobbyist. Over the years, I have completed several courses, including a Career and Technical Education (CTE) course on Java, an online Python course with Codecademy, and a web development bootcamp through the University of Utah.</p>
