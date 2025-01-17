@@ -96,7 +96,6 @@ nav a:hover {
 nav a:last-child {
   margin-right: 0;
 }
-
 main {
   margin-top: 20px;
   margin-bottom: 45px;
@@ -194,6 +193,11 @@ main {
     flex-basis: 100%;
 }
 
+.flex-item:last-child {
+  min-height: 400px;
+  flex-basis: 100%;
+}
+
 .flex-item:hover {
   background-color: rgba(0, 0, 0, 0.3);
 }
@@ -257,8 +261,19 @@ main {
   background-image: url("./images/Pet-Tracker.jpg");
 }
 
+.Prework-Study-Guide {
+  background-image: url("./images/prework.png");
+}
+
 #Me {
   border-radius: 50%;
+}
+
+textarea {
+  width: 50vw; 
+  height: 45vh; 
+  resize: none; 
+  box-sizing: border-box; 
 }
 /* media queries */
 
@@ -294,14 +309,28 @@ main {
     text-align: left;
     font-size: 7vw;
   }
+  textarea {
+    width: 100vw; 
+    height: 40vh; 
+    resize: none; 
+    box-sizing: border-box; 
+  }
 }
 
-/* TODO: add media query for a max-width of 768px */
+
+
+
 @media screen and (max-width: 768px) {
 .flex-item:first-child {
     min-height: 150px;
     max-height: 150px;
     flex-basis: 100%;
+}
+
+.flex-item:last-child {
+  min-height: 150px;
+  max-height: 150px;
+  flex-basis: 100%;
 }
 .flex-item {
     min-height: 150px;
@@ -310,3 +339,20 @@ main {
 }
 
 }
+
+@media screen and (max-width: 600px) {
+  .flex-item:first-child {
+      min-height: 150px;
+      max-height: 150px;
+      flex-basis: 100%;
+  }
+  .flex-item {
+      min-height: 150px;
+      max-height: 150px;
+      flex-basis: 100%;;
+  }
+  nav.navbar a{
+    font-size: 10px;
+  }
+  
+  }

@@ -21,17 +21,19 @@ This project is my portfolio, showcasing my programming skills and demonstrating
 
 ## Usage
 
-- Once your on the page website you should see a big header at the top of the page.
-- Theres my name in header and then theres four tabs on right or if on smaller screen uder my name in the header.
+- Once you’re on the website, you’ll see a prominent header at the top.
+- My name is displayed in the header, with four tabs to the right (or below my name on smaller screens).
+- ![alt text](./src/images/screenshot.png)
 - The active page will be highlighted in lightblue click on these tabs to change which page your on.
-- The Four pages are About Me, Portfolio, Contact, and Resume.
-- On the About Me page you will see a picture of me followed by a quick bio about me.
-- On the Portfolio page you will see several boxes with the name of the project over a picture representing the project.
-- Click on any of those boxes to take you to that projects deployed website or if its project meant for your local machine to just redirects you to the repository of the project on GitHub.
-- Next to name of the project there is the GitHub Icon, Click this Icon to go see the repository for that project.
-- On Contact Me page -FILLER
-- On Resume page you will see a link to download my Resume and under neath a list of my skills related to Computer Programming work.
-- At the base of every page is a footer with a GitHub, LinkIn and Instagram Icon. Click these icons to see my personal accounts on those sites.
+- The four pages are: About Me, Portfolio, Contact, and Resume.
+- On the About Me page, you’ll find my picture followed by a brief bio.
+- The Portfolio page showcases several of my projects, each represented by an image and project name.
+- Click on any of those boxes to take you to that projects deployed website or if its project meant for your local machine it just redirects you to the repository of the project on GitHub instead.
+- Next to the project name, there’s a GitHub icon. Click this icon to view the repository.
+- The Contact page consists of three fields: name, email, and message. Once you fill out these fields with valid information, you can submit the form (contact me the email listed instead because the project currently dosen't have the right kind of server to handle the form submission).
+- On the Resume page, you’ll find a link to download my resume and a list of my skills related to computer programming.
+- A footer at the bottom of every page contains GitHub, LinkedIn, and Instagram icons. Click these icons to visit my personal accounts on those platforms.
+- For a walkthrough of how to use the application [Click Here](https://drive.google.com/file/d/1KcmngBD_b9tmD80Io2LwZY8fUmbsh1d3/view).
 
 ## Credits
 
@@ -41,6 +43,9 @@ Project Designer: Kalab Smith
 
 ChatGPT
 - was used to create some of the pictures used for portfolio picks of some of the projects.
+
+Utah University
+- the image used for the portfolio link to my Prework Study Guide came from course page for web development coding bootcamp year 2024-2025.
 
 ## License
 
