@@ -23,7 +23,7 @@ This project is my portfolio, showcasing my programming skills and demonstrating
 
 - Once you’re on the website, you’ll see a prominent header at the top.
 - My name is displayed in the header, with four tabs to the right (or below my name on smaller screens).
-- ![alt text](./src/images/screenshot.png)
+- ![alt text](./images/screenshot.png)
 - The active page will be highlighted in lightblue click on these tabs to change which page your on.
 - The four pages are: About Me, Portfolio, Contact, and Resume.
 - On the About Me page, you’ll find my picture followed by a brief bio.
