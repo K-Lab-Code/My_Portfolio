@@ -240,7 +240,6 @@ main {
 }
 
 /* portfolio project images */
-/* TODO: Add portfolio project images here using background images*/
 .My-Weather-App {
   background-image: url("../images/Weather.png");
 }
@@ -352,7 +351,7 @@ textarea {
       flex-basis: 100%;;
   }
   nav.navbar a{
-    font-size: 10px;
+    font-size: 20px;
   }
   
   }
