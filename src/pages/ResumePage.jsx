@@ -12,6 +12,7 @@ export default function ResumePage() {
           <li>Javascript</li>
           <li>Typescript</li>
           <li>React</li>
+          <li>Bootstrap</li>
         </ul>
         <h3>Back End Proficiencies</h3>
         <ul>
@@ -19,15 +20,24 @@ export default function ResumePage() {
           <li>Express js</li>
           <li>Api</li>
           <li>PostgreSQL</li>
+          <li>MongoDB</li>
+          <li>Apollo GraphQL</li>
         </ul>
         <h3>Other Proficiencies</h3>
         <ul>
           <li>Git</li>
           <li>GitHub</li>
           <li>Python</li>
+          <li>Java</li>
+          <li>CircleCI</li>
+          <li>Render</li>
+          <li>Netlify</li>
           <li>Microsoft Word</li>
           <li>Microsoft Powerpoint</li>
           <li>Microsoft Excel</li>
+          <li>Code Testing</li>
+          <li>Game Maker</li>
+          
         </ul>
         </div>
     </section>
