@@ -264,6 +264,31 @@ main {
   background-image: url("../images/prework.png");
 }
 
+.Symbol-Sense {
+  background-image: url("../images/emoji.png");
+}
+
+.API-Social-Network {
+  background-image: url("");
+}
+
+.Book-Search-Network {
+  background-image: url("../images/book.png");
+}
+
+.Moon-Watchers {
+  background-image: url("../images/moon.png");
+}
+
+.Kanban-JWT-Application {
+  background-image: url("");
+}
+
+.Candidate-Search {
+  background-image: url("../images/candidate-search.png");
+}
+
+
 #Me {
   border-radius: 50%;
 }
