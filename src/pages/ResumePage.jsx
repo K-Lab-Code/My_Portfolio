@@ -13,6 +13,7 @@ export default function ResumePage() {
           <li>Typescript</li>
           <li>React</li>
           <li>Bootstrap</li>
+          <li>Smart Admin</li>
         </ul>
         <h3>Back End Proficiencies</h3>
         <ul>
@@ -21,6 +22,7 @@ export default function ResumePage() {
           <li>Api</li>
           <li>PostgreSQL</li>
           <li>MongoDB</li>
+          <li>PHP</li>
           <li>Apollo GraphQL</li>
         </ul>
         <h3>Other Proficiencies</h3>
